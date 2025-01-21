@@ -1,6 +1,6 @@
 import { Field, Form, Formik } from "formik";
 import SimpleTabs from "../../../../components/SimpleTabs";
-import TextInput from "../../../../components/input";
+import TextInput from "../../../../components/Input";
 import DropdownAPI from "../../../../components/dropdownapi";
 import tahap1Store from "./store/tahap1store";
 import Button from "../../../../components/button";

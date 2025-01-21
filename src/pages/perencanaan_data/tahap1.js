@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "../../components/navigationbar";
 import Tabs from "../../components/Tabs";
-import TextInput from "../../components/input";
+import TextInput from "../../components/Input";
 import Button from "../../components/button";
 import Stepper from "../../components/stepper";
 import Dropdown from "../../components/dropdown1";

@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from "react";
-import TextInput from "../../components/input";
+import TextInput from "../../components/Input";
 import Table from "../../components/table";
 import Pagination from "../../components/pagination";
 import Tabs from "../../components/Tabs";

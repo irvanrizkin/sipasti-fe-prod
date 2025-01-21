@@ -8,7 +8,7 @@ import LoginImage from "../../public/images/login-asset.svg";
 
 import CustomAlert from "../components/alert";
 import Register from "./register";
-import TextInput from "../components/input";
+import TextInput from "../components/Input";
 import Button from "../components/button";
 import Modal from "../components/modal";
 import ForgotPassword from "./forgotpassword";

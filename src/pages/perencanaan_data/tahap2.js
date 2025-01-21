@@ -7,7 +7,7 @@ import Stepper from "../../components/stepper";
 // import Tabs from "../../components/Tabs";
 import Button from "../../components/button";
 import Pagination from "../../components/pagination";
-import TextInput from "../../components/input";
+import TextInput from "../../components/Input";
 import Dropdown from "../../components/dropdown";
 // import DropdownAPI from "../../components/DropdownAPI";
 import SearchBox from "../../components/searchbox";

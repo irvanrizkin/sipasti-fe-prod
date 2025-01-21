@@ -2,7 +2,7 @@ import { Button, Pagination, Tabs } from "@mui/material";
 import { Field, FieldArray } from "formik";
 import SearchBox from "../../../components/searchbox";
 import AddRowModal from "../../../components/addrowmodal";
-import TextInput from "../../../components/input";
+import TextInput from "../../../components/Input";
 import Dropdown from "../../../components/dropdown";
 import { useState } from "react";
 

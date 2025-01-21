@@ -1,6 +1,6 @@
 // ForgotPassword.js
 import React, { useState } from "react";
-import TextInput from "../components/input";
+import TextInput from "../components/Input";
 import Button from "../components/button";
 import { CloseCircle } from "iconsax-react";
 import CustomAlert from "../components/alert";

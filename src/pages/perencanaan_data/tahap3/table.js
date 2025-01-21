@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import TextInput from "@/components/input";
+import TextInput from "@/components/Input";
 import Dropdown from "@/components/dropdown";
 import Button from "@/components/button";
 import Checkbox from "@/components/checkbox";
